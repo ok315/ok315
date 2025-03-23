@@ -1,16 +1,44 @@
-## Hi there 👋
+# Muhammad Osama
 
-<!--
-**ok315/ok315** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Address:**  
+H # 2/17, St# 15-A, Mohallah Firdousi Park, Ghoray Shah, Lahore.  
+**Phone:**  
++92 325 4032432  
+**Email:**  
+[m.osamakhan0315@gmail.com](mailto:m.osamakhan0315@gmail.com)  
+**Date of Birth:**  
+23-10-2003  
+**Gender:**  
+Male  
 
-Here are some ideas to get you started:
+## Links:
+- [Codeforces Profile](https://codeforces.com/profile/OSAMA_KHAN)
+- [GitHub](https://github.com/ok315)
+- [LinkedIn](https://www.linkedin.com/in/muhammad-osama-khan-4573a6295/)
+- [LeetCode](https://leetcode.com/u/osama_k/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me:
+I am a self-motivated, enthusiastic, and energetic individual pursuing a degree in Data Science at PUCIT. I am driven by a passion for continuous improvement, both personally and professionally. With a strong foundation in Object Oriented Programming and Data Structure and Algorithms, I am eager to leverage my skills and knowledge to contribute to innovative projects and drive meaningful insights.
+
+## Education and Qualifications:
+- **Bachelor in Data Science**  
+  PUCIT, Lahore
+
+## Skills:
+- Python Programming
+- C++ Programming
+- HTML / CSS
+- Multitasking
+- Problem Solving
+
+## Achievements:
+- **Competitive Programming:**  
+  Solved numerous coding problems on Codeforces and Leetcode, demonstrating strong problem-solving skills and a deep understanding of algorithms and data structures.
+
+- **Project Development:**  
+  Developed a Tic-Tac-Toe game in Python, showcasing my ability to design and implement different software projects.
+
+## Languages:
+- **English** - Fluent
+- **Urdu** - Native
+
