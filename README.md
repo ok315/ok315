@@ -29,6 +29,7 @@ I am a self-motivated, enthusiastic, and energetic individual pursuing a degree 
 ## Skills:
 - Python Programming
 - C++ Programming
+- Database
 - HTML / CSS
 - Multitasking
 - Problem Solving
