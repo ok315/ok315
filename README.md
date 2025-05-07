@@ -1,9 +1,9 @@
 # Muhammad Osama
 
-**Permanent Address:**  
-H # 2/17, St# 15-A, Mohallah Firdousi Park, Ghoray Shah, Lahore.'\n'
 **Current Address:**
-214-R Model Town, Lahore.  
+214-R Model Town, Lahore.
+**Permanent Address:**  
+H # 2/17, St# 15-A, Mohallah Firdousi Park, Ghoray Shah, Lahore.  
 **Phone:**  
 +92 325 4032432  
 **Email:**  
