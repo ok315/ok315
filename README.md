@@ -1,7 +1,7 @@
 # Muhammad Osama
 
 **Current Address:**                            
-214-R Model Town, Lahore.                      
+45-C Model Colony, Q-Block Model Town Extension, Lahore.                      
 **Permanent Address:**  
 H # 2/17, St# 15-A, Mohallah Firdousi Park, Ghoray Shah, Lahore.  
 **Phone:**  
@@ -29,10 +29,13 @@ I am a self-motivated, enthusiastic, and energetic individual pursuing a degree 
 ## Skills:
 - Python Programming
 - C++ Programming
+- JavaScript
+- SQL
 - Database
 - HTML / CSS
 - Multitasking
 - Problem Solving
+
 
 ## Achievements:
 - **Competitive Programming:**  
@@ -40,6 +43,8 @@ I am a self-motivated, enthusiastic, and energetic individual pursuing a degree 
 
 - **Project Development:**  
   Developed a Tic-Tac-Toe game in Python, showcasing my ability to design and implement different software projects.
+  AI Chatbot- A programming tutor
+  ML Project, a Life Expectancy Prediction App
 
 ## Languages:
 - **English** - Fluent
