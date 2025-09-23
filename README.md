@@ -10,8 +10,7 @@ H # 2/17, St# 15-A, Mohallah Firdousi Park, Ghoray Shah, Lahore.
 [m.osamakhan0315@gmail.com](mailto:m.osamakhan0315@gmail.com)  
 **Date of Birth:**  
 29-04-2003       
-**Gender:**  
-Male  
+**Gender:** Male  
 
 ## Links:
 - [Codeforces Profile](https://codeforces.com/profile/OSAMA_KHAN)
