@@ -1,18 +1,15 @@
-# Muhammad Osama
+# Hi, I'm Osama 👋
 
-**Current Address:**                            
-45-C Model Colony, Q-Block Model Town Extension, Lahore.                      
-**Permanent Address:**  
-H # 2/17, St# 15-A, Mohallah Firdousi Park, Ghoray Shah, Lahore.  
-**Phone:**  
-+92 325 4032432  
+## 🚀 About Me
+- 🎓 Data Science student at PUCIT  
+- 💻 Interested in Artificial Intelligence, Machine Learning, Data Engineering, and Web Development  
+- 🌱 Currently learning: Operating Systems & Advanced Algorithms  
+- 🎯 Goal: Become a Data Scientist
+  
 **Email:**  
-[m.osamakhan0315@gmail.com](mailto:m.osamakhan0315@gmail.com)  
-**Date of Birth:**  
-29-04-2003       
-**Gender:** Male  
-
-## Links:
+[m.osamakhan0315@gmail.com](mailto:m.osamakhan0315@gmail.com)        
+   
+## Connect with me:
 - [Codeforces Profile](https://codeforces.com/profile/OSAMA_KHAN)
 - [GitHub](https://github.com/ok315)
 - [LinkedIn](https://www.linkedin.com/in/muhammad-osama-khan-4573a6295/)
@@ -26,15 +23,10 @@ I am a self-motivated, enthusiastic, and energetic individual pursuing a degree 
   PUCIT, Lahore
 
 ## Skills:
-- Python Programming
-- C++ Programming
-- JavaScript
-- AI/ML 
-- SQL
-- Database
-- HTML / CSS
-- Multitasking
-- Problem Solving
+- **Languages**: Python, C, C++, Java , Javascript
+- **Data Science**: Pandas, NumPy, Matplotlib, AI/ML  
+- **Databases**: SQL, PostgreSQL, SQLite, MySQL  
+- **Other**: Git, Linux, OOP, DSA
 
 
 ## Achievements:
@@ -45,8 +37,12 @@ I am a self-motivated, enthusiastic, and energetic individual pursuing a degree 
   Developed a Tic-Tac-Toe game in Python, showcasing my ability to design and implement different software projects.
   AI Chatbot- A programming tutor
   ML Project, a Life Expectancy Prediction App
+  Web Project, A to do List App
+  Python Project, A Video Splitter tool
 
 ## Languages:
 - **English** - Fluent
 - **Urdu** - Native
+- **Pashto** - Native
+- **Punjabi** - Native
 
