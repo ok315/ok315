@@ -25,7 +25,7 @@ I am a self-motivated, enthusiastic, and energetic individual pursuing a degree 
 ## Skills:
 - **Languages**: Python, C, C++, Java , Javascript
 - **Data Science**: Pandas, NumPy, Matplotlib, AI/ML  
-- **Databases**: SQL, PostgreSQL, SQLite, MySQL  
+- **Databases**: SQL, PostgreSQL, SQLite, MySQL, SQL Server 
 - **Other**: Git, Linux, OOP, DSA
 
 
