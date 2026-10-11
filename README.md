@@ -80,7 +80,7 @@ An agentic system that routes questions to 3 tools (calculator, web search, RAG 
 
 An autonomous agent that plans, generates, and executes pandas code to answer natural-language questions, with a self-correction loop that reads runtime errors and rewrites the code. **100% accuracy** on a 10-question verified test set (avg. 1.3 attempts).
 
-<a href="https://github.com/ok315/Data-Analysis-Agent">
+<a href="https://github.com/ok315/ai-data-analysis-agent">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ok315&repo=Data-Analysis-Agent&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=d8dee9" alt="Data Analysis Agent"/>
 </a>
 
@@ -91,7 +91,7 @@ An autonomous agent that plans, generates, and executes pandas code to answer na
 | Data Processing | pandas |
 | API | FastAPI + Pydantic validation, Swagger UI |
 
-🔗 [Code](https://github.com/ok315/Data-Analysis-Agent)
+🔗 [Code](https://github.com/ok315/ai-data-analysis-agent)
 
 ---
 
